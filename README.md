@@ -18,7 +18,7 @@ can use 3 colours + 1 shade of black + 1 shade of white; in total 5 colours.
 
 ## My Solution:
 ### PHP part (APIs):
-What you see in this repo is my solution to the above problem statement. I've created an API using PHP and MySql database namely, and "api.php" that provides API response for login, signup and get-menu. I have also exported and uploaded the actual database, so that you guys can import it and have a look at it. A side-note: I have used BLOWFISH encryption for storing passwords in the database, and the code is as per the latest PHP standards, i.e, I have stripped tags from input to prevent XSS and escaped the special characters and sequences to prevent SQL injection. The other PHP file "add-item.php" enables you to add items to the menu, making the app dynamic.
+What you see in this repo is my solution to the above problem statement. I've created an API using PHP and MySql database namely, "api.php" that provides API response for login, signup and get-menu. I have also exported and uploaded the actual database, so that you guys can import it and have a look at it. A side-note: I have used BLOWFISH encryption for storing passwords in the database, and the code is as per the latest PHP standards, i.e, I have stripped tags from input to prevent XSS and escaped the special characters and sequences to prevent SQL injection. The other PHP file "add-item.php" enables you to add items to the menu, making the app dynamic.
 ## Angular part:
 As mentioned in the problem statement, I have used Angular version 9, used only the following colors: Teal(0, 128, 128), firebrick(178, 34, 34), dodgerblue(30, 144, 255), whitesmoke(245, 245, 245)[a shade of white] and #333(51, 51, 51)[a shade of black for fonts].
 # Usage:
