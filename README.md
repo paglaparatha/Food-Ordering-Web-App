@@ -22,7 +22,7 @@ What you see in this repo is my solution to the above problem statement. I've cr
 ## Angular part:
 As mentioned in the problem statement, I have used Angular version 9, used only the following colors: Teal(0, 128, 128), firebrick(178, 34, 34), dodgerblue(30, 144, 255), whitesmoke(245, 245, 245)[a shade of white] and #333(51, 51, 51)[a shade of black for fonts].
 # Usage:
-Create a MySql database named "food-point", and there import the provided "food-point.sql". Host the give PHP pages at "http://localhost/food%20point/" (create a folder named "food point" in your local machine, and place the PHP files there). Now host the given files in "barneys-food-point" as well, and then visit the hosted "index.html" page.
+Create a MySql database named "food-point", and there import the provided "food-point.sql". Host the given PHP pages at "http://localhost/food%20point/" (create a folder named "food point" in your local machine, and place the PHP files there). Now host the given files in "barneys-food-point" as well, and then visit the hosted "index.html" page.
 # Screens
 Signup Screen ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/signup.PNG?raw=true)
 Login Screen ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/login1.PNG?raw=true)
