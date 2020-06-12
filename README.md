@@ -24,5 +24,12 @@ As mentioned in the problem statement, I have used Angular version 9, used only 
 # Usage:
 Create a MySql database named "food-point", and there import the provided "food-point.sql". Host the give PHP pages at "http://localhost/food%20point/" (create a folder named "food point" in your local machine, and place the PHP files there). Now host the given files in "barneys-food-point" as well, and then visit the hosted "index.html" page.
 # Screens
-![screenshots](screenshots/login1.png)
+Signup Screen ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/signup.PNG?raw=true)
+Login Screen ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/login1.PNG?raw=true)
+Validation in login screen ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/login2.PNG?raw=true)
+Home Screen ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/home1.PNG?raw=true)
+Cart Full ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/cart1.PNG?raw=true)
+Cart Empty ![Login Screen](https://github.com/paglaparatha/Food-Ordering-Web-App/blob/master/screenshots/cart2.PNG?raw=true)
 
+# note: 
+I couldn't upload the actual angular source code due to some internet issues, considering it was around 425mb.
